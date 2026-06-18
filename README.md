@@ -1,8 +1,7 @@
 # Olá, eu sou o Gabriel Cruz! 👋
 
 ### Engenheiro de Computação | Desenvolvedor de Software & IA | Analista de Infraestrutura e Redes
-
----
+**Portifolio:** https://gabrielcdl.github.io/portifolio/
 
 ## 🚀 Sobre Mim
 
@@ -13,7 +12,6 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 - 📍 Natal, RN - Brasil.
 - 🎯 Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos de software e infraestrutura de TI.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -32,7 +30,6 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
----
 
 ## 📫 Vamos nos conectar?
 
