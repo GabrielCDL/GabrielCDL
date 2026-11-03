@@ -30,7 +30,7 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windowslogoColor=white)
-  ![MecOS](https://img.shields.io/badge/MecOS-0056B3?style=flat-square&logo=cogs&logoColor=white)
+  ![MacOS](https://img.shields.io/badge/MecOS-0056B3?style=flat-square&logo=cogs&logoColor=white)
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
   ![MikroTik](https://img.shields.io/badge/MikroTik-F02311?style=flat-square&logo=mikrotik&logoColor=white)
   ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
