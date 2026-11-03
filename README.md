@@ -1,16 +1,21 @@
-# Olá, eu sou o Gabriel Cruz! 👋
+# portifolio
 
-### Engenheiro de Computação | Desenvolvedor de Software & IA | Analista de Infraestrutura e Redes
-**Portifolio:** https://gabrielcdl.github.io/portifolio/
+## Olá, eu sou o Gabriel Cruz! 👋
+
+## Engenheiro de Computação | Desenvolvedor de Software & IA | Analista de Dados | Técnico em Innformática
+
+---
 
 ## 🚀 Sobre Mim
 
-Profissional em atuação na área de **Tecnologia da Informação**, com experiência em **infraestrutura**, **suporte técnico**, **redes de computadores** e **desenvolvimento de sistemas**. Busco experiências que me permitam aprimorar minhas habilidades técnicas, contribuir para soluções eficientes e fortalecer minha atuação tanto em projetos de infraestrutura e redes quanto em desenvolvimento de software.
+Profissional em atuação na área de **Tecnologia da Informação**, com experiência em **infraestrutura**, **suporte técnico**, **redes de computadores**, **desenvolvimento de sistemas** e **análise de dados**. Busco oportunidades que me permitam aprimorar minhas habilidades técnicas, contribuir para soluções eficientes e fortalecer minha atuação na área da tecnologia.
 
-- 💻 Atualmente atuando no desenvolvimento e integração de automações com IA.
-- 🎓 Bacharel em **Engenharia de Computação** pela UFRN.
-- 🎯 Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos de software e infraestrutura de TI.
+- 💻 Atualmente atuando com análise de dados e desenvolvimento de automações com IA.
+- 🎓 Bacharel em **Engenharia da Computação** pela UFRN.
+- 📍 Natal, RN - Brasil.
+- 🎯 Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos sólidos na área de tecnologia da informação.
 
+---
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -23,12 +28,19 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 ### 🗄️ Bancos de Dados & Ferramentas
 
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6F61?style=flat-square&logo=n8n&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6F61?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### ⚙️ Infraestrutura e Redes
 
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windowslogoColor=white)
+  ![MecOS](https://img.shields.io/badge/MecOS-0056B3?style=flat-square&logo=cogs&logoColor=white)
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+  ![MikroTik](https://img.shields.io/badge/MikroTik-F02311?style=flat-square&logo=mikrotik&logoColor=white)
+  ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+  ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+---
 
 ## 📫 Vamos nos conectar?
 
