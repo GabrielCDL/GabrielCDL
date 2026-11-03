@@ -1,10 +1,6 @@
-# portifolio
-
 ## Olá, eu sou o Gabriel Cruz! 👋
 
-## Engenheiro de Computação | Desenvolvedor de Software & IA | Analista de Dados | Técnico em Innformática
-
----
+### Engenheiro de Computação | Desenvolvedor de Software & IA | Analista de Dados | Técnico em Innformática
 
 ## 🚀 Sobre Mim
 
