@@ -9,7 +9,7 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 - 💻 Atualmente atuando com análise de dados e desenvolvimento de automações com IA.
 - 🎓 Bacharel em **Engenharia da Computação** pela UFRN.
 - 📍 Natal, RN - Brasil.
-- 🎯 Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos sólidos na área de tecnologia da informação.
+- 🎯 Busco constantemente evoluir minhas habilidades técnicas e contribuir para projetos na área de tecnologia da informação.
 
 ---
 
