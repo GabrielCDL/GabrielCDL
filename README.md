@@ -42,6 +42,6 @@ Profissional em atuação na área de **Tecnologia da Informação**, com experi
 
 - **LinkedIn:** [linkedin.com/in/gabriel-cruz-2935b719b](https://linkedin.com/in/gabriel-cruz-2935b719b)
 - **E-mail:** [gabrielcruz030@gmail.com](mailto:gabrielcruz030@gmail.com)
-- **Portfólio:** [gabrielcdl.github.io/portfolio](https://gabrielcdl.github.io/portfolio/)
+- **Portfólio:** [gabrielcdl.github.io/portifolio](https://gabrielcdl.github.io/portifolio/)
 
 ---
