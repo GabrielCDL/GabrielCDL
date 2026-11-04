@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre Mim
 
-Profissional em atuação na área de **Tecnologia da Informação**, com experiência em **infraestrutura**, **suporte técnico**, **redes de computadores**, **desenvolvimento de sistemas** e **análise de dados**. Busco oportunidades que me permitam aprimorar minhas habilidades técnicas, contribuir para soluções eficientes e fortalecer minha atuação na área da tecnologia.
+Profissional em atuação na área de **Tecnologia da Informação**, com conhecimento em **infraestrutura**, **redes de computadores**, **desenvolvimento de sistemas**, **inteligência artificial** e **análise de dados**. Busco oportunidades que me permitam aprimorar minhas habilidades técnicas, contribuir para soluções eficientes e fortalecer minha atuação na área da tecnologia.
 
 - 💻 Atualmente atuando com análise de dados e desenvolvimento de automações com IA.
 - 🎓 Bacharel em **Engenharia da Computação** pela UFRN.
